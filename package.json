@@ -1,0 +1,12 @@
+{
+  "name": "openpaths",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.5.6",
+    "ejs" : "latest",
+    "mongoose" : "2.5.6",
+    "request" : "2.9.153",
+    "oauth" : "0.9.6",
+    "moment" : "1.5.1"
+  }
+}

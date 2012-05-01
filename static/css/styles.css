@@ -1,0 +1,20 @@
+body { 
+    background-color: whiteSmoke;
+    
+    font-family: Helvetica, sans-serif;
+}
+
+a { 
+    color: #000000;
+}
+
+.centered {
+text-align: center;
+}
+
+#map_canvas {
+
+position: relative;
+left: -120px;
+
+}
